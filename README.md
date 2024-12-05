@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common error: an ArrayIndexOutOfBoundsException. The bug.java file contains the erroneous code, which incorrectly iterates beyond the array bounds. The bugSolution.java file provides a corrected version, illustrating the proper way to iterate over an array in Java.
